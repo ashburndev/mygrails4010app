@@ -216,4 +216,26 @@ git commit -a -m "initial commit"
 git remote add origin git@github.com:ashburndev/mygrails4010app.git
 git branch -M main
 git push -u origin main
+
+C:\Users\David Holberton\.m2\repository>dir /o:d
+ Volume in drive C has no label.
+ Volume Serial Number is 4603-A8D3
+
+ Directory of C:\Users\David Holberton\.m2\repository
+
+05/13/2021  07:10 AM    <DIR>          junit
+05/13/2021  07:10 AM    <DIR>          jline
+05/13/2021  07:10 AM    <DIR>          io
+05/13/2021  07:10 AM    <DIR>          com
+05/13/2021  07:10 AM    <DIR>          net
+05/13/2021  07:10 AM    <DIR>          org
+05/13/2021  07:10 AM    <DIR>          javax
+05/13/2021  07:10 AM    <DIR>          ..
+05/13/2021  07:10 AM    <DIR>          .
+05/13/2021  07:10 AM    <DIR>          commons-codec
+               0 File(s)              0 bytes
+              10 Dir(s)  26,143,473,664 bytes free
+
+C:\Users\David Holberton\.m2\repository>
 ```
+
